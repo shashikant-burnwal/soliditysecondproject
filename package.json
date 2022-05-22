@@ -1,0 +1,26 @@
+{
+  "name": "inboxupdated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashikant-burnwal/soliditysecondproject.git"
+  },
+  "author": "shashikant burnwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashikant-burnwal/soliditysecondproject/issues"
+  },
+  "homepage": "https://github.com/shashikant-burnwal/soliditysecondproject#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.0.0",
+    "solc": "^0.8.14-fixed",
+    "web3": "^1.7.3"
+  }
+}
